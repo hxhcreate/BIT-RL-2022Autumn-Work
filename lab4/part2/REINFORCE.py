@@ -169,6 +169,6 @@ if "mountain_car" in args.mode:
     print("Height achieved: %.2f ± %.2f" % (np.mean(testRs), np.std(testRs)))
 else:
     print("Eval score: %.2f ± %.2f" % (np.mean(testRs), np.std(testRs)))
-    print("Xuhao Hu's program has been finished")
+    print("*** 's program has been finished")
 
 env.close()

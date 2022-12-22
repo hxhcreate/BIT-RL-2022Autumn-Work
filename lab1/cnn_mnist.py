@@ -81,7 +81,7 @@ def train(x_train, y_train, x_test, y_test, BATCH_SIZE, model, loss_function, op
         score = torch.sum(y_hat == y_test).float() / y_test.shape[0]
         print(
             f"epoch:{epoch},train loss: {loss:.4f}, test accuracy: {score:.4f}, time:{time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())}")
-    print("胡栩浩's procedure has been completed")  # 将XXX改为你的中文名字，最终提交运行截图
+    print("***'s procedure has been completed")  # 将XXX改为你的中文名字，最终提交运行截图
 
 
 def cnn():
