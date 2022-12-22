@@ -1,0 +1,95 @@
+2022-11-19 00:49:05,463:INFO: Evaluating...
+2022-11-19 00:50:14,262:INFO: Average reward: 14.04 +/- 0.67
+2022-11-19 01:27:46,071:INFO: Evaluating...
+2022-11-19 01:28:49,066:INFO: Average reward: 13.34 +/- 0.60
+2022-11-19 01:28:49,070:INFO: Recording...
+2022-11-19 02:32:28,624:INFO: Evaluating...
+2022-11-19 02:33:32,118:INFO: Average reward: 13.52 +/- 0.76
+2022-11-19 02:33:32,120:INFO: Recording...
+2022-11-19 03:36:33,744:INFO: Evaluating...
+2022-11-19 03:37:41,875:INFO: Average reward: 16.06 +/- 0.75
+2022-11-19 03:37:41,879:INFO: Recording...
+2022-11-19 04:40:39,163:INFO: Evaluating...
+2022-11-19 04:41:44,144:INFO: Average reward: 14.62 +/- 0.80
+2022-11-19 04:41:44,148:INFO: Recording...
+2022-11-19 05:44:46,045:INFO: Evaluating...
+2022-11-19 05:45:58,009:INFO: Average reward: 16.66 +/- 0.84
+2022-11-19 05:45:58,015:INFO: Recording...
+2022-11-19 06:48:52,232:INFO: Evaluating...
+2022-11-19 06:50:02,961:INFO: Average reward: 12.24 +/- 0.67
+2022-11-19 06:50:02,966:INFO: Recording...
+2022-11-19 07:52:57,600:INFO: Evaluating...
+2022-11-19 07:54:07,530:INFO: Average reward: 14.54 +/- 0.78
+2022-11-19 07:54:07,535:INFO: Recording...
+2022-11-19 08:56:55,802:INFO: Evaluating...
+2022-11-19 08:58:02,777:INFO: Average reward: 14.68 +/- 0.95
+2022-11-19 08:58:02,782:INFO: Recording...
+2022-11-19 10:00:54,173:INFO: Evaluating...
+2022-11-19 10:02:02,448:INFO: Average reward: 13.84 +/- 0.71
+2022-11-19 10:02:02,453:INFO: Recording...
+2022-11-19 11:04:25,662:INFO: - Training done.
+2022-11-19 11:04:33,111:INFO: Evaluating...
+2022-11-19 11:05:35,034:INFO: Average reward: 13.58 +/- 0.77
+2022-11-19 11:05:35,218:DEBUG: Loaded backend agg version unknown.
+2022-11-19 11:05:35,228:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2022-11-19 11:05:35,230:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2022-11-19 11:05:35,230:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2022-11-19 11:05:35,230:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,231:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,231:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,231:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,231:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2022-11-19 11:05:35,231:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,232:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,232:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,232:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,232:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,232:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2022-11-19 11:05:35,232:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2022-11-19 11:05:35,233:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2022-11-19 11:05:35,233:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,233:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,233:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2022-11-19 11:05:35,233:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2022-11-19 11:05:35,233:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,234:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,234:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,234:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,234:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,234:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2022-11-19 11:05:35,234:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,234:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,235:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,235:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,235:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2022-11-19 11:05:35,235:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2022-11-19 11:05:35,235:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,235:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,235:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,235:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,236:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,236:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,236:DEBUG: findfont: score(FontEntry(fname='/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2022-11-19 11:05:35,236:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,236:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 0.5349999999999999
+2022-11-19 11:05:35,236:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2022-11-19 11:05:35,236:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2022-11-19 11:05:35,237:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2022-11-19 11:05:35,237:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2022-11-19 11:05:35,237:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-ExtraLight.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 0.24
+2022-11-19 11:05:35,237:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2022-11-19 11:05:35,237:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,237:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2022-11-19 11:05:35,237:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2022-11-19 11:05:35,237:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 1.535
+2022-11-19 11:05:35,238:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2022-11-19 11:05:35,238:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 1.25
+2022-11-19 11:05:35,238:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 0.25
+2022-11-19 11:05:35,238:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,238:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2022-11-19 11:05:35,238:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2022-11-19 11:05:35,238:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuMathTeXGyre.ttf', name='DejaVu Math TeX Gyre', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2022-11-19 11:05:35,238:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2022-11-19 11:05:35,239:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2022-11-19 11:05:35,239:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2022-11-19 11:05:35,239:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home1/hxh/miniconda3/envs/bitrl/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
